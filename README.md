@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishnumohan44&label=Profile%20views&color=0e75b6&style=flat" alt="vishnumohan44" /> </p>
 
+- 🌍 I am based in Chennai, Tamil Nadu
 - 🌱 I’m currently learning **Machine Learning**
-
-- 📫 How to reach me **vishnu1428mohan@gmail.com**
+- ✉️ Contact me at **vishnu1428mohan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
